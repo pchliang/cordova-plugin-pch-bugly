@@ -1,0 +1,7 @@
+repositories {
+    jcenter ()
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['bugly-4.1.9.2.aar'])
+}
