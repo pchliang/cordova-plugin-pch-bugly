@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-pch-alipay",
+  "name": "cordova-plugin-pch-bugly",
   "version": "1.0.0",
-  "description": "Cordova Plugin Alipay",
+  "description": "Cordova Plugin bugly",
   "cordova": {
-    "id": "cordova-plugin-pch-alipay",
+    "id": "cordova-plugin-pch-bugly",
     "platforms": [
       "android",
       "ios"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pchliang/cordova-plugin-pch-alipay"
+    "url": "https://github.com/pchliang/cordova-plugin-pch-bugly"
   },
   "bugs": {
-    "url": "https://github.com/pchliang/cordova-plugin-pch-alipay/issues"
+    "url": "https://github.com/pchliang/cordova-plugin-pch-bugly/issues"
   },
   "keywords": [
     "cordova",
-    "alipay",
+    "bugly",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
